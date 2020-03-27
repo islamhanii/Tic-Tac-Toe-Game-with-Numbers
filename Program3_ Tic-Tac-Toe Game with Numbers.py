@@ -1,4 +1,5 @@
-#Tic_Tac-Toe Game With Numbers
+#Author: Islam Hani Awad
+#Job: Student at FCAI faculty, Cairo University
 
 while True:
     Boolean = False
